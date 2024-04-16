@@ -49,6 +49,6 @@ Lakad is a navigation app designed to ensure the safety and convenience of commu
 - Overall, the prototype's functionalities were well-received, with users finding most features intuitive and user-friendly.
 
 ## Conclusion:
-SafeCommute represents a comprehensive solution for nighttime commuters, prioritizing safety, convenience, and community engagement. The app's design and features are a result of iterative refinement based on user feedback, ensuring a robust and user-centric final prototype.
+Lakad represents a comprehensive solution for nighttime commuters, prioritizing safety, convenience, and community engagement. The app's design and features are a result of iterative refinement based on user feedback, ensuring a robust and user-centric final prototype.
 
 **Final Prototype Figma Link:** [Lakad Prototype](https://www.figma.com/file/e5A4GWxMtp1Prao7Oe0cTE/MCO2?type=design&node-id=0%3A1&mode=design&t=vt3OXySAtLedeftQ-1)
